@@ -1,6 +1,6 @@
 # Mr. X and his Shots
 
-A cricket match is going to be held. The field is represented by a 1D plane. A cricketer, Mr. X has favorite shots. Each shot has a particular range. The range of the i<sup>th</sup> shot is from A<sub>i</sub> to B<sub>i</sub>. That means his favorite shot can be anywhere in this range. Each player on the opposite team can field only in a particular range. Player i can field from C<sub>i</sub> to D<sub>i</sub>. You are given the favorite shots of Mr. X and the range of players.
+A cricket match is going to be held. The field is represented by a 1D plane. A cricketer, Mr. X has N favorite shots. Each shot has a particular range. The range of the i<sup>th</sup> shot is from A<sub>i</sub> to B<sub>i</sub>. That means his favorite shot can be anywhere in this range. Each player on the opposite team can field only in a particular range. Player i can field from C<sub>i</sub> to D<sub>i</sub>. You are given the N favorite shots of Mr. X and the range of M players.
 
 S<sub>i</sub> represents the strength of each player i.e. the number of shots player i can stop.
 Your task is to find:
