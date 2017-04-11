@@ -2,10 +2,10 @@
 
 A cricket match is going to be held. The field is represented by a 1D plane. A cricketer, Mr. X has favorite shots. Each shot has a particular range. The range of the i<sup>th</sup> shot is from A<sub>i</sub> to B<sub>i</sub>. That means his favorite shot can be anywhere in this range. Each player on the opposite team can field only in a particular range. Player i can field from C<sub>i</sub> to D<sub>i</sub>. You are given the favorite shots of Mr. X and the range of players.
 
-represents the strength of each player i.e. the number of shots player can stop.
+S<sub>i</sub> represents the strength of each player i.e. the number of shots player i can stop.
 Your task is to find:
 
-SUM<sub>i=1 -> M</sub> S<sup>i</sup>
+SUM<sub>i=1 -> M</sub> S<sub>i</sub>
 
 Game Rules: A player can stop the i<sup>th</sup> shot if the range overlaps with the player's fielding range.
 
