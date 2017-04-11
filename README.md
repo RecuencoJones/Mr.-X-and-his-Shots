@@ -5,7 +5,7 @@ A cricket match is going to be held. The field is represented by a 1D plane. A c
 represents the strength of each player i.e. the number of shots player can stop.
 Your task is to find:
 
-SUM ~i=1->M~ S<sup>i</sup>
+SUM<sub>i=1</sub><sup>M</sup> S<sup>i</sup>
 
 Game Rules: A player can stop the i<sup>th</sup> shot if the range overlaps with the player's fielding range.
 
@@ -21,7 +21,7 @@ For more clarity about overlapping, study the following figure:
 
 ## Output Format
 
-- You need to print the sum of the strengths of all the players: SUM ~i=1->M~ S<sub>i</sub>
+- You need to print the sum of the strengths of all the players: SUM <sub>i=1</sub><sup>M</sup> S<sub>i</sub>
 
 ## Sample Input
 
